@@ -4,5 +4,4 @@ Este repositorio contiene el código de R utilizado para desarrollar el TFM del 
 
 <p align="center">
 ![image](https://github.com/leoncasba/TFM_UPV/raw/main/portada.PNG)
-</p>
 
