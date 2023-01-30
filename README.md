@@ -1,3 +1,3 @@
-# Codigo R - Estudio de la relacion entre indicadores de competitividad y huella digital en bodegas valencianas mediante tecnicas multivariantes y de minerıa de datos
+# Codigo R - Estudio de la relación entre indicadores de competitividad y huella digital en bodegas valencianas mediante técnicas multivariantes y de minería de datos
 
-Este repositorio contiene el codigo de R utilizado para desarrollar el TFM del Master en Ingenieria de Analisis de Datos, Mejora de Procesos y Toma de Decisiones.
+Este repositorio contiene el código de R utilizado para desarrollar el TFM del Máster en Ingeniería de Análisis de Datos, Mejora de Procesos y Toma de Decisiones.
